@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "838909142203",
+    "project_id": "tawaqueat-75d2b",
+    "storage_bucket": "tawaqueat-75d2b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838909142203:android:683a848d9042652499b59e",
+        "android_client_info": {
+          "package_name": "com.example.tawaqueat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "838909142203-8bc0f5tq0o4l3fs2r4dku60krn8vo4us.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk5NnQ1XwP--YPIrQ_XgwWPb67K1aU45Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "838909142203-8bc0f5tq0o4l3fs2r4dku60krn8vo4us.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
